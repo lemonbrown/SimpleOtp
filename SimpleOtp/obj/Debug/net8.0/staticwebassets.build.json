@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TxAZ7Hajp6XfGDoWFprS0awIvPAtxX423HF8G43mNdI=",
+  "Source": "SimpleOtp",
+  "BasePath": "_content/SimpleOtp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

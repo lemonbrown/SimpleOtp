@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qUfEyTT1tNU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cameron\\source\\repos\\SimpleOtp\\SimpleOtp\\SimpleOtp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cameron\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\cameron\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
